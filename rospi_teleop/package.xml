@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+  <name>rospi_teleop</name>
+  <version>0.3.2</version>
+  <description>ROSpi Teleoperation</description>
+
+
+  <license>BSD</license>
+
+
+  <url type="website">https://github.com/ros-autom</url>
+
+
+  <author>ROS-autom@github</author> 
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>std_msgs</run_depend>
+
+
+  <export>
+
+
+  </export>
+</package>
