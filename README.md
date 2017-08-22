@@ -1,2 +1,2 @@
 # RaspberryPi-ROS
-ROS on a Raspberry Pi running Ubuntu Mate
+ROS Kinetic on a Raspberry Pi running Ubuntu Mate 16.04 ARMHF
